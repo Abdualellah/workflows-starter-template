@@ -1,8 +1,9 @@
 {
-  "id": "bootstrap",
-  "query": "",
+  "id": "test-20260922-1709",
+  "issuedAt": "2026-09-22T17:09:00Z",
+  "query": "jade gua sha facial massage tool",
   "country": "US",
   "currency": "USD",
-  "limit": 1,
-  "enabled": false
+  "limit": 2,
+  "enabled": true
 }
