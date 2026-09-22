@@ -1,0 +1,8 @@
+{
+  "id": "bootstrap",
+  "query": "",
+  "country": "US",
+  "currency": "USD",
+  "limit": 1,
+  "enabled": false
+}
