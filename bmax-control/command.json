@@ -1,9 +1,12 @@
 {
-  "id": "bmax-single-price-shipping-20260923-1143",
-  "issuedAt": "2026-09-23T09:43:00Z",
-  "query": "facial ice roller",
-  "country": "US",
-  "currency": "USD",
-  "limit": 1,
-  "enabled": true
+  "id": "cj-winter-women-hunt-20260924-01",
+  "issuedAt": "2026-09-24T20:25:00Z",
+  "action": "CJ_PRODUCT_HUNT",
+  "query": "women winter coat",
+  "count": 3,
+  "candidatePool": 15,
+  "requireImages": 3,
+  "requirePositiveStock": true,
+  "enabled": true,
+  "mode": "READ_ONLY"
 }
