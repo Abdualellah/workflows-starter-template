@@ -1,14 +1,13 @@
 {
-  "id": "cj-shopify-draft-20260924-01",
-  "issuedAt": "2026-09-24T21:49:00Z",
-  "action": "CJ_SHOPIFY_DRAFT",
-  "pid": "2411021220111624500",
-  "vid": "2411021220111624700",
-  "approved": true,
-  "minimumImages": 3,
-  "imageLimit": 4,
-  "priceEnding99": true,
+  "id": "cj-winter-apparel-20260925-01",
+  "issuedAt": "2026-09-25T00:05:00Z",
+  "action": "CJ_PRODUCT_HUNT",
+  "query": "women winter shearling coat puffer jacket funnel neck coat knit cardigan blazer winter clothing apparel",
+  "count": 10,
+  "candidatePool": 50,
+  "requireImages": 3,
+  "requirePositiveStock": true,
   "enabled": true,
-  "mode": "DRAFT_ONLY",
+  "mode": "READ_ONLY",
   "supervisor": "CHATGPT"
 }
