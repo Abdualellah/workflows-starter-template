@@ -1,23 +1,12 @@
 {
-  "id": "cj-winter-20-identities-20260925-08",
+  "id": "cj-winter-gallery-20260925-09",
+  "issuedAt": "2026-09-25T09:40:09.663Z",
   "action": "CJ_PRODUCT_HUNT",
-  "query": "women winter feminine simple premium wearable coat jacket apparel funnel neck wool wrap belted trench cropped puffer long puffer shearling faux fur suede bomber parka peacoat cardigan knit lounge set fleece homewear sweater dress blazer scarf jacket quilted jacket",
+  "query": "women winter feminine simple premium wearable coat jacket apparel wool wrap belted trench cropped puffer long puffer shearling faux fur suede bomber parka peacoat cardigan knit lounge set fleece homewear sweater dress blazer quilted jacket",
   "count": 20,
   "candidatePool": 50,
   "requireImages": 4,
   "requirePositiveStock": true,
-  "enabled": true,
   "mode": "READ_ONLY",
-  "supervisor": "CHATGPT",
-  "selectionPolicy": {
-    "uniqueIdentityPerProduct": true,
-    "rejectNearDuplicates": true,
-    "feminine": true,
-    "simple": true,
-    "premium": true,
-    "wearable": true,
-    "rejectRunwayExtreme": true,
-    "rejectMen": true,
-    "rejectChildren": true
-  }
+  "supervisor": "CHATGPT"
 }
