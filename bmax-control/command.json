@@ -1,11 +1,12 @@
 {
-  "id": "cj-winter-gallery-20260925-09",
-  "issuedAt": "2026-09-25T09:40:09.663Z",
+  "id": "cj-coat-drive-20260926-0139",
+  "issuedAt": "2026-09-26T01:39:00Z",
+  "enabled": true,
   "action": "CJ_PRODUCT_HUNT",
-  "query": "women winter feminine simple premium wearable coat jacket apparel wool wrap belted trench cropped puffer long puffer shearling faux fur suede bomber parka peacoat cardigan knit lounge set fleece homewear sweater dress blazer quilted jacket",
-  "count": 20,
+  "query": "women long winter coat",
+  "count": 8,
   "candidatePool": 50,
-  "requireImages": 4,
+  "requireImages": 3,
   "requirePositiveStock": true,
   "mode": "READ_ONLY",
   "supervisor": "CHATGPT"
